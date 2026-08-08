@@ -1,0 +1,8 @@
+private/
+tmp/
+*_old
+*_backup
+SITE FOR IMPORT/Thumbs.db
+.DS_Store
+
+
